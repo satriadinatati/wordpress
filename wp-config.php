@@ -17,6 +17,7 @@
  *
  * @package WordPress
  */
+define('FS_METHOD', 'direct');
 define( 'WP_HOME', 'http://myalb-267616097.us-east-1.elb.amazonaws.com/wordpress' );
 define( 'WP_SITEURL', 'http://myalb-267616097.us-east-1.elb.amazonaws.com/wordpress' );
 
