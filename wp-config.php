@@ -17,8 +17,8 @@
  *
  * @package WordPress
  */
-define( 'WP_HOME', 'http://yoursiteurl.com' );
-define( 'WP_SITEURL', 'http://yoursiteurl.com' );
+define( 'WP_HOME', 'http://myalb-267616097.us-east-1.elb.amazonaws.com/wordpress' );
+define( 'WP_SITEURL', 'http://myalb-267616097.us-east-1.elb.amazonaws.com/wordpress' );
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
